@@ -213,7 +213,7 @@ section .title::after {
 
 /*  Home  */
 .home {
-  display: "";
+  display:auto;
   background: url("img/ches.png") no-repeat
     center;
   height: 100vh;
