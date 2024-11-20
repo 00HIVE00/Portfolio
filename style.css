@@ -214,9 +214,6 @@ section .title::after {
 /*  Home  */
 .home {
   display: flex;
-  background: url("img/ches.png") no-repeat
-    center;
-  height: 100vh;
   color: #293857;
   min-height: 500px;
   background-size: cover;
@@ -226,8 +223,8 @@ section .title::after {
 .home{
 background: url("img/ches.png") no-repeat
     center;
-height:100%;
-width:100%;
+height: 100%;
+width: 100%;
 }
 
 .home .max-width {
