@@ -1,0 +1,5 @@
+User -agent: *
+Disallow: /private/
+Allow: /
+
+Sitemap: http://chesterjohnoblido.site/sitemap.xml
