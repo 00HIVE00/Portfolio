@@ -54,7 +54,7 @@ $(document).ready(function () {
     strings: [
       "Basketball Player",
       "Student",
-      "Cylist",
+      "Cyclist",
       "Student",
       "IT Professional"
     ],
