@@ -219,9 +219,7 @@ section .title::after {
   background-size: cover;
   background-attachment: fixed;
   font-family: "Ubuntu", sans-serif;
-}
-.home{
-background: url("img/ches.png") no-repeat
+  background: url("img/ches.png") no-repeat
     center;
 height: 100%;
 width: 100%;
