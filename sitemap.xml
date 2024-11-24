@@ -17,6 +17,17 @@
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
         <lastmod>2023-10-01</lastmod>
+        <image:image>
+            <image:loc>https://chesterjohnoblido.site/images/hobby.jpg</image:loc>
+            <image:caption>Hobby Image</image:caption>
+        </image:image>
+    </url>
+    
+    <url>
+        <loc>https://chesterjohnoblido.site/contact.html</loc>
+        <changefreq>yearly</changefreq>
+        <priority>0.5</priority>
+        <lastmod>2023-10-01</lastmod>
     </url>
 
 </urlset>
