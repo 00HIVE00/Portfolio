@@ -9,25 +9,28 @@
         <loc>https://chesterjohnoblido.site/index.html</loc>
         <changefreq>daily</changefreq>
         <priority>1.0</priority>
-        <lastmod>2023-10-01</lastmod>
+        <lastmod>2024-11-24</lastmod>
     </url>
     
     <url>
-        <loc>https://chesterjohnoblido.site/hobby.html</loc>
+        <loc>https://pearlangelhidalgo.site/about.html</loc>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
-        <lastmod>2023-10-01</lastmod>
-        <image:image>
-            <image:loc>https://chesterjohnoblido.site/images/hobby.jpg</image:loc>
-            <image:caption>Hobby Image</image:caption>
-        </image:image>
+        <lastmod>2024-11-01</lastmod>
+    </url>
+    
+    <url>
+        <loc>https://chesterjohnoblido.site/service.html</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+        <lastmod>2024-11-01</lastmod>
     </url>
     
     <url>
         <loc>https://chesterjohnoblido.site/contact.html</loc>
         <changefreq>yearly</changefreq>
         <priority>0.5</priority>
-        <lastmod>2023-10-01</lastmod>
+        <lastmod>2024-01-15</lastmod>
     </url>
 
 </urlset>
