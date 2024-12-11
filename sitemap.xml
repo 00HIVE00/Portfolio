@@ -13,21 +13,7 @@
     </url>
     
     <url>
-        <loc>https://chesterjohnoblido.site/about.html</loc>
-        <changefreq>monthly</changefreq>
-        <priority>0.8</priority>
-        <lastmod>2024-11-01</lastmod>
-    </url>
-    
-    <url>
-        <loc>https://chesterjohnoblido.site/service.html</loc>
-        <changefreq>monthly</changefreq>
-        <priority>0.8</priority>
-        <lastmod>2024-11-01</lastmod>
-    </url>
-    
-    <url>
-        <loc>https://chesterjohnoblido.site/contact.html</loc>
+        <loc>https://chesterjohnoblido.site/hobby.html</loc>
         <changefreq>yearly</changefreq>
         <priority>0.5</priority>
         <lastmod>2024-01-15</lastmod>
